@@ -1,2 +1,2 @@
 # ClonGoogle
-clon del navegador de google
+Clon del navegador de Google
