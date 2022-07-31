@@ -6,3 +6,4 @@ Decidiendo volver a realizar una copia de google.com con
   - react
   - tailwind
   - nextjs
+  - typescript
