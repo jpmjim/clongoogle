@@ -4,3 +4,4 @@ volverlo hacer con tailwind
 Decidiendo volver a realizar una copia de google.com con
   nuevas herramientas
 - resolver migrations
+- resolver muchos a muchos
